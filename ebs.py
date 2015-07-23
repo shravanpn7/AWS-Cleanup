@@ -22,3 +22,4 @@ print 'total volume size:', total, 'GB'
 print 'gp2 volume size:', gp2, 'GB'
 print 'magnetic volume size:', magnetic, 'GB'
 print 'io volume size:', io1, 'GB'
+# end
