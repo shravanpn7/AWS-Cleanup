@@ -32,7 +32,7 @@ print 'total volume size:', total, 'GB'
 print 'gp2 volume size:', gp2, 'GB'
 print 'magnetic volume size:', magnetic, 'GB'
 print 'io volume size:', io1, 'GB'
-
+#
 if deleteVols == True:
     deleteConfirm = raw_input("Are you sure you want to delete the above orphan volumes [y/n]? ")
     if deleteConfirm == 'y':
